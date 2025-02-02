@@ -26,7 +26,7 @@ This project demonstrates a simple **Car Sliding Animation** prototype created u
 - Enter **Prototype Mode** and click the play button to test the animation.
 - Observe the car sliding from left to right with a smooth transition
 - [ PROTOTYPE ](https://www.figma.com/proto/dvee1kKGbcLFM2zQ2Fmlfm/Car-sliding?node-id=1-2&p=f&t=IWvcwY5HbDKvKUo0-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
-- 
+  
 
 
 
